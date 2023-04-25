@@ -1,4 +1,4 @@
-JavaScript Version #JS; js
+# JavaScript Version <a href='#'>#JS</a>; <a>js</a>
 
 ![image](https://user-images.githubusercontent.com/99328720/234161763-27266b3c-1097-4883-ab10-619a9681b147.png)
 
